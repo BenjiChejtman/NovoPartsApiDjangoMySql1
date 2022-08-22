@@ -81,7 +81,7 @@ DATABASES = {
         'PORT': '3306',
         'USER': 'root',
         'PASSWORD': 'rootroot',
-        'NAME': '',  #aca voy a tner que poner el nombre de la base de datos cuando la tenga
+        'NAME': 'novopartsprueba',  #aca voy a tner que poner el nombre de la base de datos cuando la tenga
         'OPTIONS':{
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
         }
